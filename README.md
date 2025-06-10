@@ -78,7 +78,7 @@ Developed by [smthy1](https://github.com/smthy1). Contacte me via [email](mailto
 
 # 🇧🇷 To-Do API
 
-Este aplicativo de gerenciamento de tarefas foi feito com FastAPI, PostgreSQL e empacotado com Docker. O objetivo deste é colocar em prática o que aprendi.
+Este aplicativo de gerenciamento de tarefas foi feito com FastAPI, PostgreSQL e empacotado com Docker. O objetivo deste projeto é colocar em prática o que aprendi.
 
 ## 📦 Funcionalidades
 📝 Criar tarefas
