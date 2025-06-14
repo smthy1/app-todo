@@ -39,7 +39,7 @@ This task management app is built with FastAPI and PostgreSQL, fully packaged wi
     docker-compose up --build -d
 ```
 
-3. Wait a few seconds fpr Docker build and start the containers, then you're ready to test the API with Postman, Insomnia, or any tool prefer.
+3. Wait a few seconds for Docker build and start the containers, then you're ready to test the API with Postman, Insomnia, or any tool prefer.
  - Base URL: http://localhost:8000/todo
 
 4. Available endpoints:
